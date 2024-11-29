@@ -149,7 +149,7 @@ I'm Surya R, a passionate tech enthusiast with a strong interest in exploring ne
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugmarkey&theme=radical" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -157,13 +157,13 @@ I'm Surya R, a passionate tech enthusiast with a strong interest in exploring ne
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugmarkey&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bugmarkey&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <h3 align="center">
