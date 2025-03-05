@@ -22,7 +22,7 @@
 
 
 <h2  align="justify">
-I'm Surya R, a passionate tech enthusiast with a strong interest in exploring new technologies and building innovative solutions. With a background in Electronics and Communication Engineering, I've developed a solid foundation in programming languages, software development, and problem-solving.
+I'm Surya, a passionate tech enthusiast with a strong interest in exploring new technologies and building innovative solutions. With a background in Electronics and Communication Engineering, I've developed a solid foundation in programming languages, software development, and problem-solving.
 <br><br>
 </h2>
 
