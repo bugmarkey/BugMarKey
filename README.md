@@ -123,7 +123,7 @@ I'm Surya, a passionate tech enthusiast with a strong interest in exploring new 
 
 | Degree  | Institute                                           | CGPA/Percentage |
 | ------- | --------------------------------------------------- | --------------- |
-| B.E-ECE | Sri Ramakrishna Engineering College                 | 8.13 (Current)  |
+| B.E-ECE | Sri Ramakrishna Engineering College                 | 8.16 (Current)  |
 | HSC     | Carmel Garden Matriculation Higher Secondary School | 94.2%           |
 | SSLC    | Carmel Garden Matriculation Higher Secondary School | 93.6%           |
 
